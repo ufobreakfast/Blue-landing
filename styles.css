@@ -1,0 +1,75 @@
+.sale {
+
+
+text-align: center;
+text-transform: uppercase;
+color: red;
+padding-bottom: 3%;
+
+}
+
+.quote {
+padding-left: 25%;
+text-align: right;
+text-decoration-thickness:auto ;
+
+}
+
+.button {
+
+padding-bottom: 20%;
+margin-bottom: 80px;
+
+
+}
+
+  .navbar-nav .nav-link {
+      padding: 0.8rem 1rem;
+      /* Adjust padding as needed */
+  }
+.navbar-brand {
+margin-left: 200px;
+
+}
+
+.nav-link {
+
+/* margin: 0 50px; */
+margin-right:  100px;
+
+}
+
+
+
+
+
+   /* Custom CSS if needed */
+   body {
+       min-height: 100vh;
+       display: flex;
+       flex-direction: column;
+   }
+
+   .content {
+       flex: 1;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+
+   .footer {
+       width: 100%;
+       background-color: #f8f9fa;
+
+       padding: 20px 0;
+       text-align: center;
+       position: relative;
+       bottom: 0;
+       left: 0;
+   }
+
+
+
+
+
+
